@@ -1,30 +1,46 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: September 2, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Fixed output for hashes and spaces for half pyramid. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really struggled with the idea of using multiple for loops but mapping it out on a grid and thinking about what my code should do line by line helped ins solving this problem.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Mario.c](https://github.com/eastcoastninja/web-dev-notes/blob/master/sidequests/cs50/pset1/mario.c)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: September 3, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Fixed logic to print the correct amount 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I learned that it isn't necessary to return a variable within the scope of the main function since the variable is available globally.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Cash.c](https://github.com/eastcoastninja/web-dev-notes/blob/master/sidequests/cs50/pset1/cash.c)
 
 
-### Day 1: June 27, Monday
+### Day 2: September 4, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Started Week 1 Lecture 2 CS50
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** This course was alittle frightening at first but after absorbing all the material like a little sponge it has been an amazing adventure into code.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [wk1-lecture2-notes.md] https://github.com/eastcoastninja/web-dev-notes/blob/master/sidequests/cs50/wk1-lecture2-notes.md
+
+### Day 3: September 5, 2017
+
+**Today's Progress**: Finished Week 1 Lecture 2 CS50 Working on Shorts
+
+**Thoughts** Gained a new perspective on using comments in the code to make it more readable for both other maintainers and myself. 
+
+**Link(s) to work**
+1. [wk1-lecture2-notes.md] https://github.com/eastcoastninja/web-dev-notes/blob/master/sidequests/cs50/wk1-lecture2-notes.md
+
+
+### Day 4: September 6, 2017
+
+**Today's Progress**: Finished Week 1 CS50 Shorts
+
+**Thoughts** Learned how to use and appreciate the power behind debugging.This practice can save hours of time stepping through each line of code and seeing what is happening vs what you want to happen. 
+
+**Link(s) to work**
+1. [wk1-lecture2-notes.md] https://github.com/eastcoastninja/web-dev-notes/blob/master/sidequests/cs50/wk1-lecture2-notes.md
