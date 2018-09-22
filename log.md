@@ -6,7 +6,7 @@
 
 **Thoughts:** I struggled with the concept of the css flexbox but after plugging in different properties and seeing how each of them reacted on the console. This made understanding the flow considerably easier.
 
-**Link to work:** [null](https://www.freecodecamp.org/eastcoastninja)
+**Link to work:** [freecodecamp](https://www.freecodecamp.org/eastcoastninja)
 
 ### Day 1: September 3, 2017
 
