@@ -1,12 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: September 2, 2017
+### Day 0: September 22, 2017
 
-**Today's Progress**: Fixed output for hashes and spaces for half pyramid. 
+**Today's Progress**: Complete Applied Accessibility, Responsive Web Design Priciples, and CSS Flexbox
 
-**Thoughts:** I really struggled with the idea of using multiple for loops but mapping it out on a grid and thinking about what my code should do line by line helped ins solving this problem.
+**Thoughts:** I struggled with the concept of the css flexbox but after plugging in different properties and seeing how each of them reacted on the console. This made understanding the flow considerably easier.
 
-**Link to work:** [Mario.c](https://github.com/eastcoastninja/web-dev-notes/blob/master/sidequests/cs50/pset1/mario.c)
+**Link to work:** [null](https://www.freecodecamp.org/eastcoastninja)
 
 ### Day 1: September 3, 2017
 
