@@ -8,13 +8,13 @@
 
 **Link to work:** [freecodecamp](https://www.freecodecamp.org/eastcoastninja)
 
-### Day 1: September 3, 2017
+### Day 1: September 23, 2017
 
-**Today's Progress**: Fixed logic to print the correct amount 
+**Today's Progress**: Completed Frame of this project 
 
-**Thoughts**: I learned that it isn't necessary to return a variable within the scope of the main function since the variable is available globally.
+**Thoughts**: I learned that not having libraries like bootstrap to fall back on slows down the process but this shows where my gaps are. I'm currently stuck on the organizing the structure of my content with flexbox and making my image responsive but I'll get there!
 
-**Link(s) to work**: [Cash.c](https://github.com/eastcoastninja/web-dev-notes/blob/master/sidequests/cs50/pset1/cash.c)
+**Link(s) to work**: [Tribute Page](https://codepen.io/eastcoastninja/pen/dqLLPN)
 
 
 ### Day 2: September 4, 2017
