@@ -17,14 +17,14 @@
 **Link(s) to work**: [Tribute Page](https://codepen.io/eastcoastninja/pen/dqLLPN)
 
 
-### Day 2: September 4, 2017
+### Day 2: September 24, 2017
 
-**Today's Progress**: Started Week 1 Lecture 2 CS50
+**Today's Progress**: Completed Tribute Page
 
-**Thoughts** This course was alittle frightening at first but after absorbing all the material like a little sponge it has been an amazing adventure into code.
+**Thoughts** The refreshed page looks really good! Definitely need to read more on design patterns and learn to use the flexbox and grid system better. Key take away if you need to build something fast use libraries like bootstrap to build upon.
 
 **Link(s) to work**
-1. [wk1-lecture2-notes.md] https://github.com/eastcoastninja/web-dev-notes/blob/master/sidequests/cs50/wk1-lecture2-notes.md
+1. [Tribute Page Refreshed] https://codepen.io/eastcoastninja/pen/dqLLPN
 
 ### Day 3: September 5, 2017
 
