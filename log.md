@@ -26,21 +26,21 @@
 **Link(s) to work**
 1. [Tribute Page Refreshed] https://codepen.io/eastcoastninja/pen/dqLLPN
 
-### Day 3: September 5, 2017
+### Day 3: September 25, 2017
 
-**Today's Progress**: Finished Week 1 Lecture 2 CS50 Working on Shorts
+**Today's Progress**: Finished HTML portion of survey and started beautifying with CSS
 
-**Thoughts** Gained a new perspective on using comments in the code to make it more readable for both other maintainers and myself. 
-
-**Link(s) to work**
-1. [wk1-lecture2-notes.md] https://github.com/eastcoastninja/web-dev-notes/blob/master/sidequests/cs50/wk1-lecture2-notes.md
-
-
-### Day 4: September 6, 2017
-
-**Today's Progress**: Finished Week 1 CS50 Shorts
-
-**Thoughts** Learned how to use and appreciate the power behind debugging.This practice can save hours of time stepping through each line of code and seeing what is happening vs what you want to happen. 
+**Thoughts** I struggled with the practice of looking up things I feel I should know but I am starting to see that is just a normal thing for all developers. It's okay to not know everything. That's why we have google. 
 
 **Link(s) to work**
-1. [wk1-lecture2-notes.md] https://github.com/eastcoastninja/web-dev-notes/blob/master/sidequests/cs50/wk1-lecture2-notes.md
+1. [Gamer Survey] https://codepen.io/eastcoastninja/pen/qMGvBQ
+
+
+### Day 4: September 26, 2017
+
+**Today's Progress**: Finished Survey Form
+
+**Thoughts** Starting to appreciate the amount of time it takes to complete projects toward a minimum viable product (MVP) gaining better insight on how to design than implement code.
+
+**Link(s) to work**
+1. [Gamer Survey] https://codepen.io/eastcoastninja/pen/qMGvBQ
